@@ -107,3 +107,4 @@ print("Chúc mừng bạn đã đoán đúng!")
 n=int(input("Nhập số hàng: "))
 for i in range (1,n+1):
     print (i*"*")# BaiTap_Python 
+# BaiTap_Python 
